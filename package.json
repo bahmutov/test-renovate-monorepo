@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/bahmutov/test-renovate-monorepo#readme",
   "dependencies": {
-    "debug": "3.2.6"
+    "debug": "4.1.1"
   }
 }
