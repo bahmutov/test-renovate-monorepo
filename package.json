@@ -1,0 +1,23 @@
+{
+  "name": "test-renovate-monorepo",
+  "version": "1.0.0",
+  "description": "Testing how RenovateBot handles repo with multiple package json files in subfolders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"tests pass\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/test-renovate-monorepo.git"
+  },
+  "keywords": [],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/test-renovate-monorepo/issues"
+  },
+  "homepage": "https://github.com/bahmutov/test-renovate-monorepo#readme",
+  "dependencies": {
+    "debug": "3.2.6"
+  }
+}
