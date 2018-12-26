@@ -1,0 +1,12 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "description": "internal package bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"testing bar\""
+  },
+  "keywords": [],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com/)",
+  "license": "ISC"
+}

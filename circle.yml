@@ -29,3 +29,11 @@ jobs:
 
       # run tests!
       - run: npm test
+      - run:
+          name: test packages/foo
+          command: npm test
+          working_directory: packages/foo
+      - run:
+          name: test packages/bar
+          command: npm test
+          working_directory: packages/bar
