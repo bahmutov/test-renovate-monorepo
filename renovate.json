@@ -11,5 +11,6 @@
       ],
       "enabled": false
     }
-  ]
+  ],
+  "masterIssue": true
 }
