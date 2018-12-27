@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/bahmutov/test-renovate-monorepo.git"
   },
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "keywords": [],
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com/)",
   "license": "ISC",
