@@ -11,5 +11,11 @@
   "license": "ISC",
   "devDependencies": {
     "lodash": "4.10.0"
+  },
+  "dependencies": {
+    "chalk": "2.1.0"
+  },
+  "engines": {
+    "node": ">6.0.0"
   }
 }
