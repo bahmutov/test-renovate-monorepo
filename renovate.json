@@ -1,9 +1,15 @@
 {
-  "extends": ["config:base"],
+  "extends": [
+    "config:base"
+  ],
   "automerge": false,
   "rangeStrategy": "pin",
-  "packageRules": [{
-	  "packageNames": ["node"],
-    "enabled": false
-  }]
+  "packageRules": [
+    {
+      "packageNames": [
+        "node"
+      ],
+      "enabled": false
+    }
+  ]
 }
