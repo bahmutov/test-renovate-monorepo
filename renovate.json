@@ -2,7 +2,8 @@
   "extends": ["config:base"],
   "automerge": false,
   "rangeStrategy": "pin",
-  "node": {
+  "packageRules": [{
+	  "packageNames": ["node"],
     "enabled": false
-  }
+  }]
 }
