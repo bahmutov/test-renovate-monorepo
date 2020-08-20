@@ -10,6 +10,6 @@
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com/)",
   "license": "ISC",
   "devDependencies": {
-    "lodash": "4.1.0"
+    "lodash": "4.17.19"
   }
 }
