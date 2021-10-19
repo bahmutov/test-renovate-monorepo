@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/bahmutov/test-renovate-monorepo#readme",
   "dependencies": {
-    "chalk": "2.1.0",
+    "chalk": "4.1.2",
     "debug": "3.2.6",
     "ramda": "0.15.0"
   }
